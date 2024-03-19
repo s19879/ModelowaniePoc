@@ -1,0 +1,3 @@
+module ArticleManager {
+    requires DatabaseModule;
+}
